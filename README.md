@@ -1,16 +1,48 @@
-## Hi there 👋
+Olá, eu sou Lucas Moura!
 
-<!--
-**mouraqzy/mouraqzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação, apaixonado por tecnologia e desenvolvimento de aplicações web.
 
-Here are some ideas to get you started:
+Atualmente, estou desenvolvendo meus conhecimentos em desenvolvimento web, programação e banco de dados, buscando sempre aprender novas tecnologias e transformar ideias em projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linguagens
+
+- JavaScript
+- Python
+- SQL
+
+Desenvolvimento Web
+
+- HTML5
+- CSS3
+
+Projetos
+
+-Site sobre a Marvel
+
+Projeto desenvolvido para apresentar informações e acontecimentos relacionados ao universo da Marvel, utilizando tecnologias de desenvolvimento web.
+
+Tecnologias utilizadas:
+
+- HTML
+- CSS
+- JavaScript
+
+Confira o projeto nos meus repositórios.
+
+Atualmente estudando
+
+- Desenvolvimento Web
+- JavaScript
+- Backend com Node.js
+- Banco de dados SQL
+- Boas práticas de programação
+
+Objetivos
+
+Busco evoluir constantemente como desenvolvedor, criando projetos que me permitam colocar meus conhecimentos em prática e adquirir experiência profissional na área de tecnologia.
+
+Contato:
+
+E-mail: lucasmouradonascimentodev@gmail.com
+
+Se você gostou de algum dos meus projetos, fique à vontade para explorar meus repositórios!
