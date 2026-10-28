@@ -1,48 +1,18 @@
-Olá, eu sou Lucas Moura!
 
-Desenvolvedor em formação, apaixonado por tecnologia e desenvolvimento de aplicações web.
+# 👨‍💻 Lucas Moura
 
-Atualmente, estou desenvolvendo meus conhecimentos em desenvolvimento web, programação e banco de dados, buscando sempre aprender novas tecnologias e transformar ideias em projetos.
+**Estudante de Ciência da Computação | Futuro Analista de Dados**
 
-Linguagens
+Me chamo Lucas Moura, tenho 18 anos e curso Ciência da Computação. Tenho interesse na área de Análise de Dados e almejo me tornar um Analista de Dados, desenvolvendo minhas habilidades em programação, bancos de dados e análise de informações.
 
-- JavaScript
-- Python
-- SQL
+---
 
-Desenvolvimento Web
+### LinkedIn
 
-- HTML5
-- CSS3
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-moura-a081843b4/)
 
-Projetos
+---
 
--Site sobre a Marvel
+### 👨🏻‍💻 Linguagens e Tecnologias
 
-Projeto desenvolvido para apresentar informações e acontecimentos relacionados ao universo da Marvel, utilizando tecnologias de desenvolvimento web.
-
-Tecnologias utilizadas:
-
-- HTML
-- CSS
-- JavaScript
-
-Confira o projeto nos meus repositórios.
-
-Atualmente estudando
-
-- Desenvolvimento Web
-- JavaScript
-- Backend com Node.js
-- Banco de dados SQL
-- Boas práticas de programação
-
-Objetivos
-
-Busco evoluir constantemente como desenvolvedor, criando projetos que me permitam colocar meus conhecimentos em prática e adquirir experiência profissional na área de tecnologia.
-
-Contato:
-
-E-mail: lucasmouradonascimentodev@gmail.com
-
-Se você gostou de algum dos meus projetos, fique à vontade para explorar meus repositórios!
+[![My Skills](https://skillicons.dev/icons?i=python,js,mysql,git,c,css,html)](https://skillicons.dev)
